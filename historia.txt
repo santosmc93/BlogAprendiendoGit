@@ -4,8 +4,4 @@ para poder utilizar github
 
 en el curso de Platzi
 
-Esta es la actualizacion
-
-Le agregamos un comentario nuevo wooojooooo
-
-Para ver la pelicula de Spiderman3 espero ue si salgan los 3 spidermans y que saliera venom tambien
+Ya le estoy entendiendo a esto de git por consola
