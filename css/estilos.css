@@ -4,6 +4,10 @@ body {
     color: #333;
 }
 
+p{
+    margin: 0;
+}
+
 #container {
     width: 70%;
     text-align: center;
@@ -24,4 +28,11 @@ body {
 
 .contenido {
     padding: 1rem;
+}
+
+.footer {
+    background-color: #777;
+    color: white;
+    font-size: 2rem;
+    margin-top: 25px;
 }
