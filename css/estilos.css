@@ -40,3 +40,10 @@ p{
     padding: 1rem;
     background-color: antiquewhite;
 }
+
+.footer {
+    background-color: #777;
+    font-size: 2rem;
+    color: white;
+    margin-top: 25px;
+}
